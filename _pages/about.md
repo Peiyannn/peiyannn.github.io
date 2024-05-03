@@ -21,4 +21,23 @@ Peiyan Hu (胡佩炎 in Chinese) is currently a second year Ph.D. student at [Ac
 
 Her researches focus on AI for PDE/physical system simulation and control.
 
+# 📝 Publications
+[My Google Scholar](https://scholar.google.com/citations?user=TcyZu_8AAAAJ&hl=zh-CN)
 
+# 🎖 Honors and Awards
+- National Scholarship (Master)
+- Outstanding Graduation Student of Beijing
+- Outstanding Graduation Thesis of UCAS
+- National Scholarship (Bachelor)
+
+# 📖 Educations
+- *2022.09 - Now*, Ph.D. student in the Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences (CAS).
+- *2018.09 - 2022.06*, undergraduate student in the University of Chinese Academy of Sciences (UCAS).
+
+<!-- # 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
+# 💻 Internships
+- *2023.02 - 2023.08*, [AI4Science, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)
+- *2021.11 - 2022.07*, [Machine Learning Group, Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)
