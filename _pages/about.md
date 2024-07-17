@@ -31,6 +31,7 @@ Her researches focus on AI for PDE/physical system simulation and control.
 - Outstanding Graduation Student of Beijing
 - Outstanding Graduation Thesis of UCAS
 - National Scholarship (Bachelor)
+- First-Class Academic Scholarship
 
 # 📖 Educations
 - *2022.09 - Now*, Ph.D., the Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences (CAS).
