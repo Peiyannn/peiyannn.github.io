@@ -35,7 +35,7 @@ Her researches focus on AI for PDE/physical system simulation and control.
 
 # 📖 Educations
 - *2022.09 - Now*, Ph.D., the Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences (CAS).
-- *2018.09 - 2022.06*, Bachelor of Mathematics and Applied Mathematics (major) and Computer Science (minor), the University of Chinese Academy of Sciences (UCAS).
+- *2018.09 - 2022.06*, Bachelor of Mathematics and Applied Mathematics (major) & Computer Science (minor), the University of Chinese Academy of Sciences (UCAS).
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
