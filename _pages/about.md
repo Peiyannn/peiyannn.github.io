@@ -47,7 +47,7 @@ ICML 2025 \\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/mbcc.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><img src='images/mbcc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Model-Based Closed-Loop Control Algorithm for Stochastic Partial Differential Equation Control \\
@@ -146,7 +146,7 @@ Physics of Fluids 2022 \\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/drvn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/nors.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Neural Operator with Regularity Structure for Modeling Dynamics Driven by SPDEs \\
