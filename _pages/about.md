@@ -47,7 +47,7 @@ ICML 2025 \\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><img src='images/mbcc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/mbcc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Model-Based Closed-Loop Control Algorithm for Stochastic Partial Differential Equation Control \\
