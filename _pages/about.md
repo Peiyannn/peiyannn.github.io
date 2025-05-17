@@ -26,8 +26,40 @@ Her researches focus on AI for PDE/physical system simulation and control, gener
 # 📝 Publications
 [My Google Scholar](https://scholar.google.com/citations?user=TcyZu_8AAAAJ&hl=zh-CN)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/mbcc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Model-Based Closed-Loop Control Algorithm for Stochastic Partial Differential Equation Control](https://arxiv.org/abs/2505.05521) \\
+**Peiyan Hu**, [Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en), [Yue Wang](https://scholar.google.com/citations?hl=zh-CN&user=fGv5irIAAAAJ), [Zhiming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html)
+[[arxiv]](https://arxiv.org/abs/2505.05521)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 (spotlight)</div><img src='images/guidance.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[On the Guidance of Flow Matching](https://arxiv.org/abs/2502.02150) \\
+[Ruiqi Feng](https://weenming.github.io/), [Tailin Wu](https://tailin.org/), Chenglei Yu, Wenhao Deng, **Peiyan Hu**
+[[project]](https://github.com/AI4Science-WestlakeU/flow_guidance) [[paper]](https://openreview.net/forum?id=pKaNgFzJBy) [[arxiv]](https://arxiv.org/abs/2502.02150)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/safe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From Uncertain to Safe: Conformal Fine-Tuning of Diffusion Models for Safe PDE Control](https://arxiv.org/abs/2502.02205) \\
+**Peiyan Hu***, Xiaowei Qian*, Wenhao Deng, Rui Wang, Haodong Feng, Ruiqi Feng, Tao Zhang, Long Wei, Yue Wang, Zhi-Ming Ma, Tailin Wu
+[[project]](https://github.com/AI4Science-WestlakeU/safediffcon) [[paper]](https://openreview.net/forum?id=XGJ33p4qwt) [[arxiv]](https://arxiv.org/abs/2502.02205)
+
+</div>
+</div>
+
+
 # 🎖 Honors and Awards
-- National Scholarship (Master)
+- National Scholarship (Ph.D.)
+- Star of Tomorrow (MSRA)
 - Outstanding Graduation Student of Beijing
 - Outstanding Graduation Thesis of UCAS
 - National Scholarship (Bachelor)
