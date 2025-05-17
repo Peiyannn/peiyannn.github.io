@@ -40,7 +40,7 @@ ICML 2025 (<span style="color: red;">spotlight</span>) \\
 <div class='paper-box-text' markdown="1">
 
 From Uncertain to Safe: Conformal Fine-Tuning of Diffusion Models for Safe PDE Control \\
-**Peiyan Hu***, [Xiaowei Qian](https://xweiq.github.io/)*, [Wenhao Deng](https://w3nhao.github.io/), [Rui Wang](https://openreview.net/profile?id=~Rui_Wang56), [Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en), [Ruiqi Feng](https://weenming.github.io/), [Tao Zhang](https://zhangtao167.github.io/), [Long Wei](https://longweizju.github.io/), [Yue Wang](https://scholar.google.com/citations?hl=zh-CN&user=fGv5irIAAAAJ), [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html), [Tailin Wu](https://tailin.org/) \\
+**Peiyan Hu**\*, [Xiaowei Qian](https://xweiq.github.io/)\*, [Wenhao Deng](https://w3nhao.github.io/), [Rui Wang](https://openreview.net/profile?id=~Rui_Wang56), [Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en), [Ruiqi Feng](https://weenming.github.io/), [Tao Zhang](https://zhangtao167.github.io/), [Long Wei](https://longweizju.github.io/), [Yue Wang](https://scholar.google.com/citations?hl=zh-CN&user=fGv5irIAAAAJ), [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html), [Tailin Wu](https://tailin.org/) \\
 ICML 2025 \\
 [[code]](https://github.com/AI4Science-WestlakeU/safediffcon) [[paper]](https://openreview.net/forum?id=XGJ33p4qwt) [[arXiv]](https://arxiv.org/abs/2502.02205)
 
@@ -62,7 +62,7 @@ IJCAI 2025 \\
 <div class='paper-box-text' markdown="1">
 
 Wavelet Diffusion Neural Operator \\
-**Peiyan Hu***, [Rui Wang](https://openreview.net/profile?id=~Rui_Wang56)*, [Xiang Zheng](https://xiangzheng2002.github.io/), [Tao Zhang](https://zhangtao167.github.io/), [Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en), [Ruiqi Feng](https://weenming.github.io/), [Long Wei](https://longweizju.github.io/), [Yue Wang](https://scholar.google.com/citations?hl=zh-CN&user=fGv5irIAAAAJ), [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html), [Tailin Wu](https://tailin.org/) \\
+**Peiyan Hu**\*, [Rui Wang](https://openreview.net/profile?id=~Rui_Wang56)\*, [Xiang Zheng](https://xiangzheng2002.github.io/), [Tao Zhang](https://zhangtao167.github.io/), [Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en), [Ruiqi Feng](https://weenming.github.io/), [Long Wei](https://longweizju.github.io/), [Yue Wang](https://scholar.google.com/citations?hl=zh-CN&user=fGv5irIAAAAJ), [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html), [Tailin Wu](https://tailin.org/) \\
 ICLR 2025 \\
 [[code]](https://github.com/AI4Science-WestlakeU/wdno) [[paper]](https://openreview.net/forum?id=FQhDIGuaJ4) [[arXiv]](https://arxiv.org/abs/2412.04833)
 
@@ -73,7 +73,7 @@ ICLR 2025 \\
 <div class='paper-box-text' markdown="1">
 
 CL-DiffPhyCon: Closed-loop Diffusion Control of Complex Physical Systems \\
-[Long Wei](https://longweizju.github.io/)*, [Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en)*, [Yuchen Yang](https://openreview.net/profile?id=~Yuchen_Yang11), [Ruiqi Feng](https://weenming.github.io/), **Peiyan Hu**, [Xiang Zheng](https://xiangzheng2002.github.io/), [Tao Zhang](https://zhangtao167.github.io/), [Dixia Fan](https://en.westlake.edu.cn/faculty/dixia-fan.html), [Tailin Wu](https://tailin.org/) \\
+[Long Wei](https://longweizju.github.io/)\*, [Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en)\*, [Yuchen Yang](https://openreview.net/profile?id=~Yuchen_Yang11), [Ruiqi Feng](https://weenming.github.io/), **Peiyan Hu**, [Xiang Zheng](https://xiangzheng2002.github.io/), [Tao Zhang](https://zhangtao167.github.io/), [Dixia Fan](https://en.westlake.edu.cn/faculty/dixia-fan.html), [Tailin Wu](https://tailin.org/) \\
 ICLR 2025 \\
 [[code]](https://github.com/AI4Science-WestlakeU/CL_DiffPhyCon) [[paper]](https://openreview.net/forum?id=PiHGrTTnvb) [[arXiv]](https://arxiv.org/abs/2408.03124)
 
@@ -106,7 +106,7 @@ Preprint \\
 <div class='paper-box-text' markdown="1">
 
 DiffPhyCon: A Generative Approach to Control Complex Physical Systems \\
-[Long Wei](https://longweizju.github.io/)*, **Peiyan Hu***, [Ruiqi Feng](https://weenming.github.io/)*, [Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en), Yixuan Du, [Tao Zhang](https://zhangtao167.github.io/), [Rui Wang](https://openreview.net/profile?id=~Rui_Wang56), [Yue Wang](https://scholar.google.com/citations?hl=zh-CN&user=fGv5irIAAAAJ), [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html), [Tailin Wu](https://tailin.org/) \\
+[Long Wei](https://longweizju.github.io/)\*, **Peiyan Hu**\*, [Ruiqi Feng](https://weenming.github.io/)\*, [Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en), Yixuan Du, [Tao Zhang](https://zhangtao167.github.io/), [Rui Wang](https://openreview.net/profile?id=~Rui_Wang56), [Yue Wang](https://scholar.google.com/citations?hl=zh-CN&user=fGv5irIAAAAJ), [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html), [Tailin Wu](https://tailin.org/) \\
 NeurIPS 2024; ICLR 2024 AI4PDE workshop (<span style="color: red;">oral</span>) \\
 [[project page]](https://ai4s.lab.westlake.edu.cn/projects/diffphycon/) [[code]](https://github.com/AI4Science-WestlakeU/diffphycon) [[paper]](https://openreview.net/forum?id=MbZuh8L0Xg) [[arXiv]](https://arxiv.org/abs/2407.06494)
 
