@@ -29,7 +29,7 @@ Her researches focus on AI for PDE/physical system simulation and control, gener
 <div class='paper-box-text' markdown="1">
 
 **On the Guidance of Flow Matching** \\
-[Ruiqi Feng](https://weenming.github.io/), [Tailin Wu](https://tailin.org/), Chenglei Yu, [Wenhao Deng](https://w3nhao.github.io/), **Peiyan Hu** \\
+[Ruiqi Feng](https://weenming.github.io/), Chenglei Yu, [Wenhao Deng](https://w3nhao.github.io/), **Peiyan Hu**, [Tailin Wu](https://tailin.org/) \\
 **ICML** 2025 (<span style="color: red;">spotlight</span>) \\
 [[code]](https://github.com/AI4Science-WestlakeU/flow_guidance) [[paper]](https://openreview.net/forum?id=pKaNgFzJBy) [[arXiv]](https://arxiv.org/abs/2502.02150)
 
