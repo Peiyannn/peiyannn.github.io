@@ -180,3 +180,6 @@ Rui Zhang, **Peiyan Hu**, Qi Meng, Yue Wang, Rongchan Zhu, Bingguang Chen, Zhi-M
 # 💻 Internships
 - *2023.02 - 2023.08*, Research intern with [Yue Wang](https://www.microsoft.com/en-us/research/people/yuwang5/), [AI4Science, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/).
 - *2021.11 - 2022.07*, Research intern with [Qi Meng](https://scholar.google.co.jp/citations?user=t-z3K34AAAAJ&hl=en) and [Yue Wang](https://www.microsoft.com/en-us/research/people/yuwang5/), [Machine Learning Group, Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/).
+
+# 🐶 Pets
+- I have two adorable MaMe Shiba Inus named 恰巴塔/Ciabatta (black) and 凤梨酥/Pineapple Cake (red). They have kept me company through countless hours of research, and I would like to give them a special thank-you! 💖
