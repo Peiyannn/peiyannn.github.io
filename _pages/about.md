@@ -75,6 +75,7 @@ Her researches focus on AI for PDE/physical system simulation and control, gener
 **CL-DiffPhyCon: Closed-loop Diffusion Control of Complex Physical Systems** \\
 [Long Wei](https://longweizju.github.io/)\*, [Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en)\*, [Yuchen Yang](https://openreview.net/profile?id=~Yuchen_Yang11), [Ruiqi Feng](https://weenming.github.io/), **Peiyan Hu**, [Xiang Zheng](https://xiangzheng2002.github.io/), [Tao Zhang](https://zhangtao167.github.io/), [Dixia Fan](https://en.westlake.edu.cn/faculty/dixia-fan.html), [Tailin Wu](https://tailin.org/) \\
 **ICLR** 2025 \\
+(<span style="color: red;">Nominated Outstanding Youth Paper Award</span>) at China Embodied AI Conference (CEAI 2025) \\
 [[code]](https://github.com/AI4Science-WestlakeU/CL_DiffPhyCon) [[paper]](https://openreview.net/forum?id=PiHGrTTnvb) [[arXiv]](https://arxiv.org/abs/2408.03124)
 
 </div>
