@@ -160,7 +160,7 @@ Rui Zhang, **Peiyan Hu**, Qi Meng, Yue Wang, Rongchan Zhu, Bingguang Chen, Zhi-M
 
 
 # 🎖 Honors and Awards
-- Doctoral Fellowship under the Youth Talent Development Program of CAST （中国科协青年科技人才培育工程博士生专项计划）
+- Doctoral Fellowship under CAST's Youth Talent Development Program （中国科协青年人才培育工程-博士生专项计划）
 - Hua Luogeng Scholarship
 - National Scholarship (Ph.D.)
 - Star of Tomorrow (MSRA)
