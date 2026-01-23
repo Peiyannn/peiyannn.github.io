@@ -29,7 +29,7 @@ Her researches focus on AI for PDEs'/physical systems' simulation and control, g
 <div class='paper-box-text' markdown="1">
 
 **On the Design of One-step Diffusion via Shortcutting Flow Paths** \\
-[Haitao Lin](https://scholar.google.com/citations?user=o5A23qIAAAAJ&hl=zh-CN&oi=ao)\*, **Peiyan Hu**\*, [Minsi Ren](https://scholar.google.com/citations?hl=zh-CN&user=SodlECMAAAAJ&view_op=list_works&sortby=pubdate), [Zhifeng Gao](https://scholar.google.com/citations?hl=zh-CN&user=uBo3SJcAAAAJ), [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html), [Tailin Wu](https://tailin.org/), [Stan Z Li](https://scholar.google.com/citations?hl=zh-CN&user=Y-nyLGIAAAAJ)\\
+[Haitao Lin](https://scholar.google.com/citations?user=o5A23qIAAAAJ&hl=zh-CN&oi=ao)\*, **Peiyan Hu**\*, [Minsi Ren](https://scholar.google.com/citations?hl=zh-CN&user=SodlECMAAAAJ&view_op=list_works&sortby=pubdate), [Zhifeng Gao](https://scholar.google.com/citations?hl=zh-CN&user=uBo3SJcAAAAJ), [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html), [Guolin Ke](https://guolinke.github.io/), [Tailin Wu](https://tailin.org/), [Stan Z Li](https://scholar.google.com/citations?hl=zh-CN&user=Y-nyLGIAAAAJ)\\
 **Preprint** \\
 [[arXiv]](https://arxiv.org/abs/2512.11831)
 
