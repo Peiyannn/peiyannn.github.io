@@ -174,7 +174,7 @@ Haixin Wang, Yadi Cao, Zijie Huang, Yuxuan Liu, **Peiyan Hu**, Xiao Luo, Zezheng
 
 **Deep Latent Regularity Network for Modeling Stochastic Partial Differential Equations** \\
 Shiqi Gong, **Peiyan Hu**, Qi Meng, Yue Wang, Rongchan Zhu, Bingguang Chen, Zhiming Ma, Hao Ni, Tie-Yan Liu \\
-**AAAI** 2023 \\
+**AAAI** 2023 (<span style="color: red;">oral</span>) \\
 [[code]](https://github.com/sdogsq/DLR-Net) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25938)
 
 </div>
