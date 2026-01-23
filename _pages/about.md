@@ -25,11 +25,55 @@ Her researches focus on AI for PDEs'/physical systems' simulation and control, g
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/esc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**On the Design of One-step Diffusion via Shortcutting Flow Paths** \\
+[Haitao Lin](https://scholar.google.com/citations?user=o5A23qIAAAAJ&hl=zh-CN&oi=ao)\*, **Peiyan Hu**\*, [Minsi Ren](https://scholar.google.com/citations?hl=zh-CN&user=SodlECMAAAAJ&view_op=list_works&sortby=pubdate), [Zhifeng Gao](https://scholar.google.com/citations?hl=zh-CN&user=uBo3SJcAAAAJ), [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html), [Tailin Wu](https://tailin.org/), [Stan Z Li](https://scholar.google.com/citations?hl=zh-CN&user=Y-nyLGIAAAAJ)\\
+**Preprint** \\
+[[arXiv]](https://arxiv.org/abs/2512.11831)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/realpdebench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RealPDEBench: A Benchmark for Complex Physical Systems with Real-World Data** \\
+**Peiyan Hu**\*, [Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en)\*, [Hongyuan Liu](https://orcid.org/0009-0007-0168-0510)\*, Tongtong Yan, Wenhao Deng, Tianrun Gao, Rong Zheng, Haoren Zheng, Chenglei Yu, Chuanrui Wang, Kaiwen Li, Zhi-Ming Ma, Dezhi Zhou, Xingcai Lu, [Dixia Fan](https://en.westlake.edu.cn/faculty/dixia-fan.html), [Tailin Wu](https://tailin.org/)\\
+**Preprint** \\
+[[arXiv]](https://arxiv.org/abs/2601.01829)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/fluidzero.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**FluidZero: Mastering Diverse Tasks in Fluid Systems through a Single Generative Model** \\
+[Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en)\*, [Haoren Zheng](https://scholar.google.com/citations?user=gy1LOLoAAAAJ&hl=zh-CN&oi=ao)\*, **Peiyan Hu**, [Hongyuan Liu](https://orcid.org/0009-0007-0168-0510), [Chenglei Yu](https://scholar.google.com/citations?user=lzYSFx4AAAAJ&hl=zh-CN&oi=ao), [Long Wei](https://longweizju.github.io/), [Ruiqi Feng](https://weenming.github.io/), [Jinlong Duan](https://imech.cas.cn/people/fgj/default_94777.html?id=1960), [Dixia Fan](https://en.westlake.edu.cn/faculty/dixia-fan.html), [Tailin Wu](https://tailin.org/)\\
+**Preprint** \\
+[[Research Square]](https://www.researchsquare.com/article/rs-6881567/v2)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/PIPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Physics-informed super-resolution and forecasting method based on inaccurate partial differential equations and partial observation** \\
+[Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en), **Peiyan Hu**, [Yue Wang](https://scholar.google.com/citations?hl=zh-CN&user=fGv5irIAAAAJ), [Dixia Fan](https://en.westlake.edu.cn/faculty/dixia-fan.html), [Tailin Wu](https://tailin.org/), [Yuzhong Zhang](https://scholar.google.com/citations?user=jLzcXpMAAAAJ&hl=zh-CN&oi=ao)\\
+**Physics of Fluid** \\
+[[paper]](https://pubs.aip.org/aip/pof/article-abstract/37/6/066625/3350911/Physics-informed-super-resolution-and-forecasting?redirectedFrom=fulltext)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/guidance.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **On the Guidance of Flow Matching** \\
-[Ruiqi Feng](https://weenming.github.io/), Chenglei Yu, [Wenhao Deng](https://w3nhao.github.io/), **Peiyan Hu**, [Tailin Wu](https://tailin.org/) \\
+[Ruiqi Feng](https://weenming.github.io/)\*, [Chenglei Yu](https://scholar.google.com/citations?user=lzYSFx4AAAAJ&hl=zh-CN&oi=ao)\*, [Wenhao Deng](https://w3nhao.github.io/)\*, **Peiyan Hu**, [Tailin Wu](https://tailin.org/) \\
 **ICML** 2025 (<span style="color: red;">spotlight</span>) \\
 [[code]](https://github.com/AI4Science-WestlakeU/flow_guidance) [[paper]](https://openreview.net/forum?id=pKaNgFzJBy) [[arXiv]](https://arxiv.org/abs/2502.02150)
 
