@@ -25,24 +25,24 @@ Her researches focus on AI for PDEs'/physical systems' simulation and control, g
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/esc.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**On the Design of One-step Diffusion via Shortcutting Flow Paths** \\
-[Haitao Lin](https://scholar.google.com/citations?user=o5A23qIAAAAJ&hl=zh-CN&oi=ao)\*, **Peiyan Hu**\*, [Minsi Ren](https://scholar.google.com/citations?hl=zh-CN&user=SodlECMAAAAJ&view_op=list_works&sortby=pubdate), [Zhifeng Gao](https://scholar.google.com/citations?hl=zh-CN&user=uBo3SJcAAAAJ), [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html), [Guolin Ke](https://guolinke.github.io/), [Tailin Wu](https://tailin.org/), [Stan Z Li](https://scholar.google.com/citations?hl=zh-CN&user=Y-nyLGIAAAAJ)\\
-**Preprint** \\
-[[arXiv]](https://arxiv.org/abs/2512.11831)
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/realpdebench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **RealPDEBench: A Benchmark for Complex Physical Systems with Real-World Data** \\
 **Peiyan Hu**\*, [Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en)\*, [Hongyuan Liu](https://orcid.org/0009-0007-0168-0510)\*, Tongtong Yan, Wenhao Deng, Tianrun Gao, Rong Zheng, Haoren Zheng, Chenglei Yu, Chuanrui Wang, Kaiwen Li, Zhi-Ming Ma, Dezhi Zhou, Xingcai Lu, [Dixia Fan](https://en.westlake.edu.cn/faculty/dixia-fan.html), [Tailin Wu](https://tailin.org/)\\
-**Preprint** \\
-[[arXiv]](https://arxiv.org/abs/2601.01829)
+**ICLR** 2026 (<span style="color: red;">oral</span>) (score ranking top 20 out of ~20,000 papers) \\
+[[project page]](https://realpdebench.github.io/) [[code]](https://github.com/AI4Science-WestlakeU/RealPDEBench) [[paper]](https://openreview.net/forum?id=y3oHMcoItR&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)) [[arXiv]](https://arxiv.org/abs/2601.01829)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/esc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**On the Design of One-step Diffusion via Shortcutting Flow Paths** \\
+[Haitao Lin](https://scholar.google.com/citations?user=o5A23qIAAAAJ&hl=zh-CN&oi=ao)\*, **Peiyan Hu**\*, [Minsi Ren](https://scholar.google.com/citations?hl=zh-CN&user=SodlECMAAAAJ&view_op=list_works&sortby=pubdate), [Zhifeng Gao](https://scholar.google.com/citations?hl=zh-CN&user=uBo3SJcAAAAJ), [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html), [Guolin Ke](https://guolinke.github.io/), [Tailin Wu](https://tailin.org/), [Stan Z Li](https://scholar.google.com/citations?hl=zh-CN&user=Y-nyLGIAAAAJ)\\
+**ICLR** 2026 \\
+[[paper]](https://openreview.net/forum?id=k6q8rRYVQR&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)) [[code]](https://github.com/EDAPINENUT/ExplicitShortCut) [[arXiv]](https://arxiv.org/abs/2512.11831)
 
 </div>
 </div>
