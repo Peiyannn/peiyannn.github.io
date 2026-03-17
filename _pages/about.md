@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Peiyan Hu (胡佩炎 in Chinese) is currently a forth year Ph.D. student at [Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences (CAS)](http://www.amss.ac.cn/), advised by Prof. [Zhiming Ma](https://en.wikipedia.org/wiki/Zhi-Ming_Ma) ([EN](https://en.wikipedia.org/wiki/Zhi-Ming_Ma), [CN](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html#home)). She completed her undergraduate studies at [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) in 2022, majoring in Mathematics with a minor in Computer Science. 
+Peiyan Hu (胡佩炎 in Chinese) is currently a forth year Ph.D. student at the [Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences (CAS)](http://www.amss.ac.cn/), advised by Prof. [Zhiming Ma](https://en.wikipedia.org/wiki/Zhi-Ming_Ma) ([EN](https://en.wikipedia.org/wiki/Zhi-Ming_Ma), [CN](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html#home)). She completed her undergraduate studies at the [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) in 2022, majoring in Mathematics with a minor in Computer Science. 
 
 She is currently a research intern at [AGI Innovation of Ant Group](https://www.antresearch.com/), mentored by [Jianguo Li](https://sites.google.com/site/leeplus/). She is also a visiting student of [AI for Scientific Simulation and Discovery Lab](https://ai4s.lab.westlake.edu.cn/) at [Westlake University](https://en.westlake.edu.cn/), mentored by [Tailin Wu](https://tailin.org/). Previously, she was a research intern of [Microsoft Research Asia](https://www.msra.cn/) and [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), mentored by [Yue Wang](https://www.microsoft.com/en-us/research/people/yuwang5/) and [Qi Meng](https://scholar.google.co.jp/citations?user=t-z3K34AAAAJ&hl=en).
 
-Her researches focus on AI for PDEs'/physical systems' simulation and control, generative models.
+Her research focuses on AI for the simulation and control of PDEs/physical systems, and generative models.
 
 # 📝 Publications
 
