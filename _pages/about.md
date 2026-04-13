@@ -21,7 +21,7 @@ Peiyan Hu (胡佩炎 in Chinese) is currently a forth year Ph.D. student at the 
 
 She is currently a research intern at [AGI Innovation of Ant Group](https://www.antresearch.com/), mentored by [Jianguo Li](https://sites.google.com/site/leeplus/). She is also a visiting student of [AI for Scientific Simulation and Discovery Lab](https://ai4s.lab.westlake.edu.cn/) at [Westlake University](https://en.westlake.edu.cn/), mentored by [Tailin Wu](https://tailin.org/). Previously, she was a research intern of [Microsoft Research Asia](https://www.msra.cn/) and [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), mentored by [Yue Wang](https://www.microsoft.com/en-us/research/people/yuwang5/) and [Qi Meng](https://scholar.google.co.jp/citations?user=t-z3K34AAAAJ&hl=en).
 
-Her research focuses on AI for the simulation and control of PDEs/physical systems, and generative models.
+Her research focuses on the fundamental algorithms of diffusion models and their applications in vision and language, and AI for the simulation and control of PDEs/physical systems.
 
 # 📝 Publications
 
@@ -42,7 +42,7 @@ Her research focuses on AI for the simulation and control of PDEs/physical syste
 **On the Design of One-step Diffusion via Shortcutting Flow Paths** \\
 [Haitao Lin](https://scholar.google.com/citations?user=o5A23qIAAAAJ&hl=zh-CN&oi=ao)\*, **Peiyan Hu**\*, [Minsi Ren](https://scholar.google.com/citations?hl=zh-CN&user=SodlECMAAAAJ&view_op=list_works&sortby=pubdate), [Zhifeng Gao](https://scholar.google.com/citations?hl=zh-CN&user=uBo3SJcAAAAJ), [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html), [Guolin Ke](https://guolinke.github.io/), [Tailin Wu](https://tailin.org/), [Stan Z Li](https://scholar.google.com/citations?hl=zh-CN&user=Y-nyLGIAAAAJ)\\
 **ICLR** 2026 \\
-[[paper]](https://openreview.net/forum?id=k6q8rRYVQR&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)) [[code]](https://github.com/EDAPINENUT/ExplicitShortCut) [[arXiv]](https://arxiv.org/abs/2512.11831)
+[[paper]](https://openreview.net/forum?id=k6q8rRYVQR&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)) [[code]](https://github.com/EDAPINENUT/ExplicitShortCut) [[arXiv]](https://arxiv.org/abs/2512.11831) [[report]](https://mp.weixin.qq.com/s/BptmtBa_OGXkTvut-KpNrg)
 
 </div>
 </div>
@@ -75,7 +75,7 @@ Her research focuses on AI for the simulation and control of PDEs/physical syste
 **On the Guidance of Flow Matching** \\
 [Ruiqi Feng](https://weenming.github.io/)\*, [Chenglei Yu](https://scholar.google.com/citations?user=lzYSFx4AAAAJ&hl=zh-CN&oi=ao)\*, [Wenhao Deng](https://w3nhao.github.io/)\*, **Peiyan Hu**, [Tailin Wu](https://tailin.org/) \\
 **ICML** 2025 (<span style="color: red;">spotlight</span>) \\
-[[code]](https://github.com/AI4Science-WestlakeU/flow_guidance) [[paper]](https://openreview.net/forum?id=pKaNgFzJBy) [[arXiv]](https://arxiv.org/abs/2502.02150)
+[[code]](https://github.com/AI4Science-WestlakeU/flow_guidance) [[paper]](https://openreview.net/forum?id=pKaNgFzJBy) [[arXiv]](https://arxiv.org/abs/2502.02150) [[report]](https://mp.weixin.qq.com/s/c4rDuHgOfLF3n3TxWXv2mw)
 
 </div>
 </div>
