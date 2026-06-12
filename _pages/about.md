@@ -17,13 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Peiyan Hu (胡佩炎 in Chinese) is currently a forth year Ph.D. student at the [Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences (CAS)](http://www.amss.ac.cn/), advised by Prof. [Zhiming Ma](https://en.wikipedia.org/wiki/Zhi-Ming_Ma) ([EN](https://en.wikipedia.org/wiki/Zhi-Ming_Ma), [CN](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html#home)). She completed her undergraduate studies at the [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) in 2022, majoring in Mathematics with a minor in Computer Science. 
+Peiyan Hu (胡佩炎 in Chinese) is currently a forth year Ph.D. student at the [Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences (CAS)](http://www.amss.ac.cn/), advised by Prof. [Zhiming Ma](https://en.wikipedia.org/wiki/Zhi-Ming_Ma) ([EN](https://en.wikipedia.org/wiki/Zhi-Ming_Ma), [CN](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html#home)). She also closely works with [Tailin Wu](https://tailin.org/) at [Westlake University](https://en.westlake.edu.cn/). She completed her undergraduate studies at the [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) in 2022, majoring in Mathematics with a minor in Computer Science. 
 
-She is currently a research intern at [AGI Innovation of Ant Group](https://www.antresearch.com/), mentored by [Jianguo Li](https://sites.google.com/site/leeplus/). She is also a visiting student of [AI for Scientific Simulation and Discovery Lab](https://ai4s.lab.westlake.edu.cn/) at [Westlake University](https://en.westlake.edu.cn/), mentored by [Tailin Wu](https://tailin.org/). Previously, she was a research intern of [Microsoft Research Asia](https://www.msra.cn/) and [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), mentored by [Yue Wang](https://www.microsoft.com/en-us/research/people/yuwang5/) and [Qi Meng](https://scholar.google.co.jp/citations?user=t-z3K34AAAAJ&hl=en).
+Her research focuses on AI for the simulation and control of PDEs/physical systems, and the fundamental algorithms of diffusion models and their applications in vision and language.
 
-Her research focuses on the fundamental algorithms of diffusion models and their applications in vision and language, and AI for the simulation and control of PDEs/physical systems.
-
-# 📝 Publications
+# 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/realpdebench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -47,39 +45,6 @@ Her research focuses on the fundamental algorithms of diffusion models and their
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/fluidzero.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**FluidZero: Mastering Diverse Tasks in Fluid Systems through a Single Generative Model** \\
-[Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en)\*, [Haoren Zheng](https://scholar.google.com/citations?user=gy1LOLoAAAAJ&hl=zh-CN&oi=ao)\*, **Peiyan Hu**, [Hongyuan Liu](https://orcid.org/0009-0007-0168-0510), [Chenglei Yu](https://scholar.google.com/citations?user=lzYSFx4AAAAJ&hl=zh-CN&oi=ao), [Long Wei](https://longweizju.github.io/), [Ruiqi Feng](https://weenming.github.io/), [Jinlong Duan](https://imech.cas.cn/people/fgj/default_94777.html?id=1960), [Dixia Fan](https://en.westlake.edu.cn/faculty/dixia-fan.html), [Tailin Wu](https://tailin.org/)\\
-**Preprint** \\
-[[Research Square]](https://www.researchsquare.com/article/rs-6881567/v2)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/PIPO.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Physics-informed super-resolution and forecasting method based on inaccurate partial differential equations and partial observation** \\
-[Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en), **Peiyan Hu**, [Yue Wang](https://scholar.google.com/citations?hl=zh-CN&user=fGv5irIAAAAJ), [Dixia Fan](https://en.westlake.edu.cn/faculty/dixia-fan.html), [Tailin Wu](https://tailin.org/), [Yuzhong Zhang](https://scholar.google.com/citations?user=jLzcXpMAAAAJ&hl=zh-CN&oi=ao)\\
-**Physics of Fluid** \\
-[[paper]](https://pubs.aip.org/aip/pof/article-abstract/37/6/066625/3350911/Physics-informed-super-resolution-and-forecasting?redirectedFrom=fulltext)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/guidance.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**On the Guidance of Flow Matching** \\
-[Ruiqi Feng](https://weenming.github.io/)\*, [Chenglei Yu](https://scholar.google.com/citations?user=lzYSFx4AAAAJ&hl=zh-CN&oi=ao)\*, [Wenhao Deng](https://w3nhao.github.io/)\*, **Peiyan Hu**, [Tailin Wu](https://tailin.org/) \\
-**ICML** 2025 (<span style="color: red;">spotlight</span>) \\
-[[code]](https://github.com/AI4Science-WestlakeU/flow_guidance) [[paper]](https://openreview.net/forum?id=pKaNgFzJBy) [[arXiv]](https://arxiv.org/abs/2502.02150) [[report]](https://mp.weixin.qq.com/s/c4rDuHgOfLF3n3TxWXv2mw)
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/safe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -91,17 +56,6 @@ Her research focuses on the fundamental algorithms of diffusion models and their
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/mbcc.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Model-Based Closed-Loop Control Algorithm for Stochastic Partial Differential Equation Control** \\
-**Peiyan Hu**, [Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en), [Yue Wang](https://scholar.google.com/citations?hl=zh-CN&user=fGv5irIAAAAJ), [Zhiming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html) \\
-**IJCAI** 2025 \\
-[[arXiv]](https://arxiv.org/abs/2505.05521)
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/wdno.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -109,40 +63,6 @@ Her research focuses on the fundamental algorithms of diffusion models and their
 **Peiyan Hu**\*, [Rui Wang](https://openreview.net/profile?id=~Rui_Wang56)\*, [Xiang Zheng](https://xiangzheng2002.github.io/), [Tao Zhang](https://zhangtao167.github.io/), [Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en), [Ruiqi Feng](https://weenming.github.io/), [Long Wei](https://longweizju.github.io/), [Yue Wang](https://scholar.google.com/citations?hl=zh-CN&user=fGv5irIAAAAJ), [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html), [Tailin Wu](https://tailin.org/) \\
 **ICLR** 2025 \\
 [[code]](https://github.com/AI4Science-WestlakeU/wdno) [[paper]](https://openreview.net/forum?id=FQhDIGuaJ4) [[arXiv]](https://arxiv.org/abs/2412.04833)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/CL-DiffPhyCon.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**CL-DiffPhyCon: Closed-loop Diffusion Control of Complex Physical Systems** \\
-[Long Wei](https://longweizju.github.io/)\*, [Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en)\*, [Yuchen Yang](https://openreview.net/profile?id=~Yuchen_Yang11), [Ruiqi Feng](https://weenming.github.io/), **Peiyan Hu**, [Xiang Zheng](https://xiangzheng2002.github.io/), [Tao Zhang](https://zhangtao167.github.io/), [Dixia Fan](https://en.westlake.edu.cn/faculty/dixia-fan.html), [Tailin Wu](https://tailin.org/) \\
-**ICLR** 2025 \\
-(<span style="color: red;">Nominated Outstanding Youth Paper Award</span>) at China Embodied AI Conference (CEAI 2025) \\
-[[code]](https://github.com/AI4Science-WestlakeU/CL_DiffPhyCon) [[paper]](https://openreview.net/forum?id=PiHGrTTnvb) [[arXiv]](https://arxiv.org/abs/2408.03124)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Multimodal.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Multimodal Policies with Physics-informed Representations** \\
-[Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en), **Peiyan Hu**, [Yue Wang](https://scholar.google.com/citations?hl=zh-CN&user=fGv5irIAAAAJ), [Dixia Fan](https://en.westlake.edu.cn/faculty/dixia-fan.html) \\
-**Preprint** \\
-[[arXiv]](https://arxiv.org/abs/2410.15250)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/survey.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey** \\
-Haixin Wang, Yadi Cao, Zijie Huang, Yuxuan Liu, **Peiyan Hu**, Xiao Luo, Zezheng Song, Wanjia Zhao, Jilin Liu, Jinan Sun, Shikun Zhang, Long Wei, Yue Wang, Tailin Wu, Zhi-Ming Ma, Yizhou Sun \\
-**Preprint** \\
-[[arXiv]](https://arxiv.org/abs/2408.12171)
 
 </div>
 </div>
@@ -169,6 +89,28 @@ Haixin Wang, Yadi Cao, Zijie Huang, Yuxuan Liu, **Peiyan Hu**, Xiao Luo, Zezheng
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/mbcc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Model-Based Closed-Loop Control Algorithm for Stochastic Partial Differential Equation Control** \\
+**Peiyan Hu**, [Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en), [Yue Wang](https://scholar.google.com/citations?hl=zh-CN&user=fGv5irIAAAAJ), [Zhiming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html) \\
+**IJCAI** 2025 \\
+[[arXiv]](https://arxiv.org/abs/2505.05521)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/guidance.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**On the Guidance of Flow Matching** \\
+[Ruiqi Feng](https://weenming.github.io/)\*, [Chenglei Yu](https://scholar.google.com/citations?user=lzYSFx4AAAAJ&hl=zh-CN&oi=ao)\*, [Wenhao Deng](https://w3nhao.github.io/)\*, **Peiyan Hu**, [Tailin Wu](https://tailin.org/) \\
+**ICML** 2025 (<span style="color: red;">spotlight</span>) \\
+[[code]](https://github.com/AI4Science-WestlakeU/flow_guidance) [[paper]](https://openreview.net/forum?id=pKaNgFzJBy) [[arXiv]](https://arxiv.org/abs/2502.02150) [[report]](https://mp.weixin.qq.com/s/c4rDuHgOfLF3n3TxWXv2mw)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/dlr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -180,13 +122,58 @@ Shiqi Gong, **Peiyan Hu**, Qi Meng, Yue Wang, Rongchan Zhu, Bingguang Chen, Zhim
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/fluidzero.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**FluidZero: Mastering Diverse Tasks in Fluid Systems through a Single Generative Model** \\
+[Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en)\*, [Haoren Zheng](https://scholar.google.com/citations?user=gy1LOLoAAAAJ&hl=zh-CN&oi=ao)\*, **Peiyan Hu**, [Hongyuan Liu](https://orcid.org/0009-0007-0168-0510), [Chenglei Yu](https://scholar.google.com/citations?user=lzYSFx4AAAAJ&hl=zh-CN&oi=ao), [Long Wei](https://longweizju.github.io/), [Ruiqi Feng](https://weenming.github.io/), [Jinlong Duan](https://imech.cas.cn/people/fgj/default_94777.html?id=1960), [Dixia Fan](https://en.westlake.edu.cn/faculty/dixia-fan.html), [Tailin Wu](https://tailin.org/)\\
+**Preprint** \\
+[[Research Square]](https://www.researchsquare.com/article/rs-6881567/v2)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/CL-DiffPhyCon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**CL-DiffPhyCon: Closed-loop Diffusion Control of Complex Physical Systems** \\
+[Long Wei](https://longweizju.github.io/)\*, [Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en)\*, [Yuchen Yang](https://openreview.net/profile?id=~Yuchen_Yang11), [Ruiqi Feng](https://weenming.github.io/), **Peiyan Hu**, [Xiang Zheng](https://xiangzheng2002.github.io/), [Tao Zhang](https://zhangtao167.github.io/), [Dixia Fan](https://en.westlake.edu.cn/faculty/dixia-fan.html), [Tailin Wu](https://tailin.org/) \\
+**ICLR** 2025 \\
+(<span style="color: red;">Nominated Outstanding Youth Paper Award</span>) at China Embodied AI Conference (CEAI 2025) \\
+[[code]](https://github.com/AI4Science-WestlakeU/CL_DiffPhyCon) [[paper]](https://openreview.net/forum?id=PiHGrTTnvb) [[arXiv]](https://arxiv.org/abs/2408.03124)
+
+<!-- </div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Multimodal.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Multimodal Policies with Physics-informed Representations** \\
+[Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en), **Peiyan Hu**, [Yue Wang](https://scholar.google.com/citations?hl=zh-CN&user=fGv5irIAAAAJ), [Dixia Fan](https://en.westlake.edu.cn/faculty/dixia-fan.html) \\
+**Preprint** \\
+[[arXiv]](https://arxiv.org/abs/2410.15250) -->
+
+<!-- </div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/PIPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Physics-informed super-resolution and forecasting method based on inaccurate partial differential equations and partial observation** \\
+[Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en), **Peiyan Hu**, [Yue Wang](https://scholar.google.com/citations?hl=zh-CN&user=fGv5irIAAAAJ), [Dixia Fan](https://en.westlake.edu.cn/faculty/dixia-fan.html), [Tailin Wu](https://tailin.org/), [Yuzhong Zhang](https://scholar.google.com/citations?user=jLzcXpMAAAAJ&hl=zh-CN&oi=ao)\\
+**Physics of Fluid** \\
+[[paper]](https://pubs.aip.org/aip/pof/article-abstract/37/6/066625/3350911/Physics-informed-super-resolution-and-forecasting?redirectedFrom=fulltext) -->
+
+<!-- </div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/drvn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DRVN (Deep Random Vortex Network): A New Physics-Informed Machine Learning Method for Simulating and Inferring Incompressible Fluid Flows** \\
 Rui Zhang, **Peiyan Hu**, Qi Meng, Yue Wang, Rongchan Zhu, Bingguang Chen, Zhi-Ming Ma, Tie-Yan Liu \\
 **Physics of Fluids** 2022 \\
-[[code]](https://github.com/optray/Deep_Random_Vortex_Networks_DRVN) [[paper]](https://pubs.aip.org/aip/pof/article-abstract/34/10/107112/2847899/DRVN-deep-random-vortex-network-A-new-physics?redirectedFrom=fulltext) [[arXiv]](https://arxiv.org/abs/2206.09571)
+[[code]](https://github.com/optray/Deep_Random_Vortex_Networks_DRVN) [[paper]](https://pubs.aip.org/aip/pof/article-abstract/34/10/107112/2847899/DRVN-deep-random-vortex-network-A-new-physics?redirectedFrom=fulltext) [[arXiv]](https://arxiv.org/abs/2206.09571) -->
 
 </div>
 </div>
@@ -227,7 +214,7 @@ Rui Zhang, **Peiyan Hu**, Qi Meng, Yue Wang, Rongchan Zhu, Bingguang Chen, Zhi-M
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2026.01 - Now*, Research intern with [Jianguo Li](https://sites.google.com/site/leeplus/home?authuser=0), [AGI Innovation](https://www.antresearch.com/).
+- *2026.01 - 2026.06*, Research intern with [Jianguo Li](https://sites.google.com/site/leeplus/home?authuser=0), [AGI Innovation](https://www.antresearch.com/).
 - *2023.02 - 2023.08*, Research intern with [Yue Wang](https://www.microsoft.com/en-us/research/people/yuwang5/), [AI4Science, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/).
 - *2021.11 - 2022.07*, Research intern with [Qi Meng](https://scholar.google.co.jp/citations?user=t-z3K34AAAAJ&hl=en) and [Yue Wang](https://www.microsoft.com/en-us/research/people/yuwang5/), [Machine Learning Group, Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/).
 
