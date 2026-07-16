@@ -23,6 +23,10 @@ Her research focuses on AI for the simulation, control, and inverse problems of 
 
 She warmly welcomes academic collaborations and research discussions.
 
+# 📢 News
+
+Announcing NeurIPS 2026 [RealPDE Competition](https://realpdecompetition.github.io/)! $21000 prize pool, 2 tracks, compete and develop in the first NeurIPS Scientific ML competition centered on data from real physical systems!
+
 # 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/realpdebench.png' alt="sym" width="100%"></div></div>
