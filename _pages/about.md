@@ -19,7 +19,9 @@ redirect_from:
 
 Peiyan Hu (胡佩炎 in Chinese) is currently a forth year Ph.D. student at the [Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences (CAS)](http://www.amss.ac.cn/), advised by Prof. [Zhiming Ma](https://en.wikipedia.org/wiki/Zhi-Ming_Ma) ([EN](https://en.wikipedia.org/wiki/Zhi-Ming_Ma), [CN](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html#home)). She also closely works with [Tailin Wu](https://tailin.org/) at [Westlake University](https://en.westlake.edu.cn/). She completed her undergraduate studies at the [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) in 2022, majoring in Mathematics with a minor in Computer Science. 
 
-Her research focuses on AI for the simulation and control of PDEs/physical systems, and the fundamental algorithms of diffusion models and their applications in vision and language.
+Her research focuses on AI for the simulation, control, and inverse problems of PDEs/physical systems, and the fundamental algorithms of diffusion models and their applications in vision and language.
+
+She warmly welcomes academic collaborations and research discussions.
 
 # 📝 Selected Publications
 
