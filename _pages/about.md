@@ -33,8 +33,8 @@ Announcing NeurIPS 2026 [RealPDE Competition](https://realpdecompetition.github.
 <div class='paper-box-text' markdown="1">
 
 **Solving Inverse Problems of Chaotic Systems with Bidirectional Conditional Flow Matching** \\
-**Peiyan Hu**\*, Jian Zhang, Jiashu Pan, Ruiqi Feng, Tao Zhang, Zhi-Ming Ma, Yuan-Sen Ting, Gongjie Li, [Tailin Wu](https://tailin.org/)\\
-Preprint. \\
+**Peiyan Hu**, Jian Zhang, Jiashu Pan, Ruiqi Feng, Tao Zhang, Zhi-Ming Ma, Yuan-Sen Ting, Gongjie Li, [Tailin Wu](https://tailin.org/)\\
+**Preprint** \\
 [[arXiv]](https://arxiv.org/abs/2606.24824)
 
 </div>
