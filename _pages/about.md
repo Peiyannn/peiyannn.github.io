@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Peiyan Hu (胡佩炎 in Chinese) is currently a forth year Ph.D. student at the [Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences (CAS)](http://www.amss.ac.cn/), advised by Prof. [Zhiming Ma](https://en.wikipedia.org/wiki/Zhi-Ming_Ma) ([EN](https://en.wikipedia.org/wiki/Zhi-Ming_Ma), [CN](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html#home)). She also closely works with [Tailin Wu](https://tailin.org/) at [Westlake University](https://en.westlake.edu.cn/). She completed her undergraduate studies at the [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) in 2022, majoring in Mathematics with a minor in Computer Science. 
+Peiyan Hu (胡佩炎 in Chinese) is currently a forth year Ph.D. student at the [Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences (CAS)](http://www.amss.ac.cn/), advised by Prof. [Zhiming Ma](https://en.wikipedia.org/wiki/Zhi-Ming_Ma) ([EN](https://en.wikipedia.org/wiki/Zhi-Ming_Ma), [CN](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html#home)). She also closely works with [Tailin Wu](https://tailin.org/) at [Westlake University](https://en.westlake.edu.cn/). She completed her undergraduate studies at the [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) in 2022, majoring in Mathematics with a minor in Computer Science. She is a research intern of [Hunyuan](https://hunyuan.tencent.com/), [Tencent](https://www.tencent.com/) [(Qingyun Program)](https://join.qq.com/qingyun.html) now.
 
 Her research focuses on AI for the simulation, control, and inverse problems of PDEs/physical systems, and the fundamental algorithms of diffusion models and their applications in vision and language.
 
@@ -28,6 +28,17 @@ She warmly welcomes academic collaborations and research discussions.
 Announcing NeurIPS 2026 [RealPDE Competition](https://realpdecompetition.github.io/)! $21000 prize pool, 2 tracks, compete and develop in the first NeurIPS Scientific ML competition centered on data from real physical systems!
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/bicfm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Solving Inverse Problems of Chaotic Systems with Bidirectional Conditional Flow Matching** \\
+**Peiyan Hu**\*, Jian Zhang, Jiashu Pan, Ruiqi Feng, Tao Zhang, Zhi-Ming Ma, Yuan-Sen Ting, Gongjie Li, [Tailin Wu](https://tailin.org/)\\
+Preprint. \\
+[[arXiv]](https://arxiv.org/abs/2606.24824)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/realpdebench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -220,6 +231,7 @@ Rui Zhang, **Peiyan Hu**, Qi Meng, Yue Wang, Rongchan Zhu, Bingguang Chen, Zhi-M
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+- *2026.08 - *, Research intern of [Hunyuan](https://hunyuan.tencent.com/), [Tencent](https://www.tencent.com/) [(Qingyun Program)](https://join.qq.com/qingyun.html).
 - *2026.01 - 2026.06*, Research intern with [Jianguo Li](https://sites.google.com/site/leeplus/home?authuser=0), [AGI Innovation](https://www.antresearch.com/).
 - *2023.02 - 2023.08*, Research intern with [Yue Wang](https://www.microsoft.com/en-us/research/people/yuwang5/), [AI4Science, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/).
 - *2021.11 - 2022.07*, Research intern with [Qi Meng](https://scholar.google.co.jp/citations?user=t-z3K34AAAAJ&hl=en) and [Yue Wang](https://www.microsoft.com/en-us/research/people/yuwang5/), [Machine Learning Group, Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/).
