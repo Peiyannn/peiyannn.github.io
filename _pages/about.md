@@ -231,7 +231,7 @@ Rui Zhang, **Peiyan Hu**, Qi Meng, Yue Wang, Rongchan Zhu, Bingguang Chen, Zhi-M
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2026.08 - *, Research intern of [Hunyuan](https://hunyuan.tencent.com/), [Tencent](https://www.tencent.com/) [(Qingyun Program)](https://join.qq.com/qingyun.html).
+- *2026.08 -*, Research intern of [Hunyuan](https://hunyuan.tencent.com/), [Tencent](https://www.tencent.com/) [(Qingyun Program)](https://join.qq.com/qingyun.html).
 - *2026.01 - 2026.06*, Research intern with [Jianguo Li](https://sites.google.com/site/leeplus/home?authuser=0), [AGI Innovation](https://www.antresearch.com/).
 - *2023.02 - 2023.08*, Research intern with [Yue Wang](https://www.microsoft.com/en-us/research/people/yuwang5/), [AI4Science, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/).
 - *2021.11 - 2022.07*, Research intern with [Qi Meng](https://scholar.google.co.jp/citations?user=t-z3K34AAAAJ&hl=en) and [Yue Wang](https://www.microsoft.com/en-us/research/people/yuwang5/), [Machine Learning Group, Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/).
