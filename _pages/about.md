@@ -221,6 +221,8 @@ Rui Zhang, **Peiyan Hu**, Qi Meng, Yue Wang, Rongchan Zhu, Bingguang Chen, Zhi-M
 - Reviewer: 
   - Conference: NeurIPS, ICLR, AAAI, IJCAI
   - Journal: Science Advances, Physics of Fluids
+- Program Chair:
+  - IJCAI
 
 # 📖 Educations
 - *2022.09 - Now*, Ph.D., Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences (CAS).
